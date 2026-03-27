@@ -61,3 +61,6 @@ function main() {
     console.log(getArea(length, width));
     console.log(getPerimeter(length, width));
 }
++601
+
+;lk
